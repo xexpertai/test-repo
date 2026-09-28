@@ -10,5 +10,5 @@ npm test
 ## Layout
 
 - `src/order.js` — the order model and its state transitions
-- `src/pricing.js` — totals, discounts and tax
+- `src/pricing.js` — totals, discounts, tax and shipping
 - `test/` — the suite, using Node's built-in runner
